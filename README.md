@@ -2,6 +2,15 @@
 
 > 一只住在 Windows / macOS 桌面右下角的 DeepSeek 鲸鱼娘挂件
 
+## 下载
+
+| 平台 | 版本 | 下载文件 |
+|---|---|---|
+| **Windows** 10/11 | [v1.0.0 · Windows 版](https://github.com/abcdefghiklmwvz123456789-ManBo/whale-pet/releases/tag/v1.0.0) | `whale-pet-v1.0.0.zip` |
+| **macOS** 12+ | [v1.1.0 · macOS 版](https://github.com/abcdefghiklmwvz123456789-ManBo/whale-pet/releases/tag/v1.1.0) | `whale-pet-v1.1.0-mac.zip` |
+
+> 两个版本共用同一份源码仓库，按平台各下各的包即可。也可以直接 clone 仓库手动跑源码。
+
 ## 来源说明 / Credits
 
 本项目基于 **DeepSeek 官方 Agent 框架 [DSH](https://github.com/deepseek-ai/DSH)** 内置的网页鲸鱼挂件插件（`dsh-whale-widget`）**改造而成**：
